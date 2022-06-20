@@ -5,10 +5,30 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## MuiTypography
 
 About Typography
-Open [https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx) 
+[https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx) 
 
+- Headings
+- Subtitle
+- Body
 
 ## MuiButton
 
-About Typography
-Open [https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx) 
+About Button
+[https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx) 
+
+- Stack
+- Button
+- IconButton
+- ButtonGroup
+- ToggleButtonGroup
+- ToggleButton
+
+## MuiTextField
+About TextField
+[./components/MuiTextField.tsx](./components/MuiTextField.tsx)
+
+- TextField
+- helperText
+- error handling
+- InputProps
+- InputAdornment (with Icon)
