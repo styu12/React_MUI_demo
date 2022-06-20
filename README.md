@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## MuiTypography
 
-About Typography
+About Typography <br />
 [https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTypography.tsx) 
 
 - Headings
@@ -13,7 +13,7 @@ About Typography
 
 ## MuiButton
 
-About Button
+About Button <br />
 [https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiButton.tsx) 
 
 - Stack
@@ -24,8 +24,8 @@ About Button
 - ToggleButton
 
 ## MuiTextField
-About TextField
-[./components/MuiTextField.tsx](./components/MuiTextField.tsx)
+About TextField <br />
+[https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTextField.tsx](https://github.com/styu12/React_MUI_demo/blob/master/src/components/MuiTextField.tsx)
 
 - TextField
 - helperText
